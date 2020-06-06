@@ -1,0 +1,7 @@
+Package: $PACKAGE
+Version: $VERSION
+Architecture: amd64
+Description: Enabling `poweroff` for normal users
+	Any user that belongs to group `power` will be able to use the `poweroff`
+	command.
+Maintainer: Bartłomiej Sługocki <0@bartan0.pl>
